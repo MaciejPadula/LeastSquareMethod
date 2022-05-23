@@ -2,7 +2,7 @@ import numpy as np
 import math
 def LeastSquareMethod(u, y, fi, precision = 2):
     a = []
-    if(len(u) == len(fi) and len(u) == len(y)):
+    if(len(u) == len(y) and len(fi)<=len(u)):
         Fi = []
         for f in fi:
             row = []
