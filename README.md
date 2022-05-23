@@ -1,4 +1,4 @@
-# LeastSquareMethod
+# Least Square Method
 Short python library that implements least square method.
 ```python
 import lsm
