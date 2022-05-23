@@ -9,4 +9,6 @@ def main():
 
 main()
 ```
-First argument is vector of u variables. Second argument is vector of y results. Last argument is vector of functions that we want to use in our mathematical model.
+u - vector of u variables <br/>
+y - vector of y results <br/>
+fi - vector of fi(u) functions that will be used in approximation of system mathematica model.
