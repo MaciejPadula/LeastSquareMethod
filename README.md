@@ -9,6 +9,9 @@ def main():
 
 main()
 ```
+```python
+Output: [-0.  3.  1.]
+```
 u - vector of u variables <br/>
 y - vector of y results <br/>
 fi - vector of fi(u) functions that will be used in approximation of system mathematica model.
